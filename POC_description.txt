@@ -1,0 +1,1 @@
+a simple page that gets data from my personal tripadvisor account and ranks the restaurants I've visited from best to worst.
