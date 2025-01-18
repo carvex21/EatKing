@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dngCvLdpwQU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Backend\\EatKing.Backend\\EatKing.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anasv\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\anasv\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
