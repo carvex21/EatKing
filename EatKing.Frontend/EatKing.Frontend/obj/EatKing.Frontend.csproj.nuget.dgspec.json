@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\EatKing.Frontend.csproj": {}
+    "c:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\EatKing.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\EatKing.Frontend.csproj": {
+    "c:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\EatKing.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\EatKing.Frontend.csproj",
+        "projectUniqueName": "c:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\EatKing.Frontend.csproj",
         "projectName": "EatKing.Frontend",
-        "projectPath": "C:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\EatKing.Frontend.csproj",
+        "projectPath": "c:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\EatKing.Frontend.csproj",
         "packagesPath": "C:\\Users\\anasv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\obj\\",
+        "outputPath": "c:\\Users\\anasv\\Desktop\\git\\EatKing\\EatKing.Frontend\\EatKing.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anasv\\AppData\\Roaming\\NuGet\\NuGet.Config"
